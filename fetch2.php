@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost"; // Or your server IP
+$servername = "localhost"; // Or your server
 $username   = "shibpurh_school";   // Your database username
 $password   = "@Shibpur1Kantabari9Patnitala66@";   // Your database password
 $dbname     = "shibpurh_nazipur_high_school";   // Your database name
