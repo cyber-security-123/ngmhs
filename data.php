@@ -2,7 +2,7 @@
 $servername = "localhost"; // Or your server IP
 $username   = "shibpurh_school";   // Your database username
 $password   = "@Shibpur1Kantabari9Patnitala66@";   // Your database password
-$dbname     = "shibpurh_nazipur_high_school";   // Your database name
+$dbname     = "shibpurh_school";   // Your database name
 
 // Connect to MySQL
 $conn = new mysqli($servername, $username, $password, $dbname);
