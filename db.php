@@ -264,7 +264,6 @@ if (isset($_POST['query']) && !empty($_POST['query'])) {
 <header>
     <div class="container" style="padding-bottom:0;">
         <h1>🗄️ Full Database Manager</h1>
-        <p>Logged in as: shibpurh_school</p>
     </div>
 </header>
 
